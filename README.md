@@ -7,3 +7,5 @@ This project demonstrates the end-to-end process of analyzing and visualizing sa
 ## Data Cleaning and Transformation
  Removed negative values, Formatted the Profit column, Added a calculated column for Profit Margin to assess profitability by product and region.
 
+## Sales and profit analysis by region to identify high and low-performing areas.
+![pivot3](https://github.com/user-attachments/assets/65db138f-feea-40ff-8b0b-6b14055b844c)
