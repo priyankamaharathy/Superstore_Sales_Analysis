@@ -1,4 +1,4 @@
-### Sales Data Analysis and Visualization
+# Sales Data Analysis and Visualization
 
 ![Dashboard](https://github.com/user-attachments/assets/3489f0d2-21a9-4f9f-bf0f-de1a28b4455a)
 
